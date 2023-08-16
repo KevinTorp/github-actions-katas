@@ -1,4 +1,4 @@
-name: hello-world workflow
+name: Main CI workflow
 on: push
 env: 
   docker_username: ${{ github.actor }}
